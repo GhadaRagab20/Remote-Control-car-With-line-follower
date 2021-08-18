@@ -90,7 +90,9 @@
  
        3 Rechargeable Lithium ion Battery
        3.7v 5000mah 
-       
- ![Demo Video](https://www.youtube.com/watch?v=-7zCn4GUJAc&t=34s)
+   
+## Demo Video
+  http://github.com - automatic!
+  [Demo Video](https://www.youtube.com/watch?v=-7zCn4GUJAc&t=34s)
 
 
