@@ -6,6 +6,9 @@
  with a bit of code this can be used to make the car follow a black track that absorbs all the light incoming on it When the car sees a wall it turns and follows
  the wall until it can see the track again.
 
+## Demo Video
+  [Demo Video](https://www.youtube.com/watch?v=-7zCn4GUJAc&t=34s)
+  
 ## Components:
   #### * Arduino Mega 2560 :
   ![Arduino Mega 2560](https://github.com/GhadaRagab20/Romot-Control-car-With-line-follower/blob/master/images/Arduino%20Mega%202560.jpg)
@@ -91,7 +94,6 @@
        3 Rechargeable Lithium ion Battery
        3.7v 5000mah 
    
-## Demo Video
-  [Demo Video](https://www.youtube.com/watch?v=-7zCn4GUJAc&t=34s)
+
 
 
